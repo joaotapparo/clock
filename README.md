@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/b9K9j8j.png" height='300'/>
+  <img src="https://i.imgur.com/zlagUWh.png" height='300'/>
 </p>
 
 # 🕔 Clock
