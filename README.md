@@ -10,7 +10,7 @@ Currently available locales are:
 - English (en)
 
 ## 🤝 Contributing
-1. [Fork the repository](https://github.com/JohnnyHall/clock/)
+1. [Fork the repository](https://github.com/JohnnyHall/clock/fork)
 2. Clone your fork: `git clone https://github.com/JohnnyHall/clock.git`
 3. Stage changes `git add .`
 4. Commit your changes: `cz` OR use `git commit`
